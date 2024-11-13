@@ -4,7 +4,7 @@ const FormData = require('form-data');
 const path = require('path');
 
 const telegramToken = '7558181491:AAHP6I8QgeYtLLnnRB_vUwoT2cqHlz5BCU4';
-const discordWebhookURL = 'https://discord.com/api/webhooks/1306174978407923783/hnOu6xocdft6keXnzrtsXEN5wYASHFJGHsCEqMi7RqHC-MRVm_sFlVFoYAXOr6OL_xey';
+const discordWebhookURL = 'https://discord.com/api/webhooks/1247874546225385483/pRORy90_S4MVpj4v_yYpWDiSVC06K1OkiOV0nigFHDRU7InyKayaof_yqs99PYGIt_kP';
 
 const bot = new TelegramBot(telegramToken, { polling: true });
 
